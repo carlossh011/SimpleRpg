@@ -10,3 +10,7 @@ Jogo de batalha por turnos no terminal onde o jogador enfrenta uma horda de gobl
 - Guerreiro — alto dano e alta defesa, estilo tanque
 - Arqueiro — alta chance de crítico, baixa defesa
 - Xamã — stats medianos, pode se curar durante o combate
+
+## Compilar
+g++ *.cpp -o rpg
+./rpg
